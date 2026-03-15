@@ -5,6 +5,7 @@ function App() {
 
       <p>this is login branch</p>
       <p>this is logout branch</p>
+      <p>this is logout new branch</p>
     </div>
   );
 }
